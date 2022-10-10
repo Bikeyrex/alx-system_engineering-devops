@@ -1,0 +1,2 @@
+#!/bin/bash
+first -10 /etc/passwd
